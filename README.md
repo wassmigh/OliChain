@@ -13,7 +13,7 @@ Notre tableau de bord interactif permet aux acteurs de la chaîne de suivre la p
 ## 🏷️ Traçabilité : Sticker & QR Code
 Chaque bouteille d'huile d'olive OliChain est munie d'un sticker doté d'un QR code unique. En scannant ce code, le consommateur accède à tout l'historique de son huile (origine des olives, méthodes agricoles, date de récolte, pressage, et certifications).
 <div align="center">
-  <img src="Capture d'écran 2026-06-29 084600.png" alt="Sticker QR Code OliChain" width="400"/>
+  <img src="Capture d'écran 2026-06-29 084600.png" alt="Sticker QR Code OliChain" width="800"/>
   <br/>
   <em>(Sticker placé sur chaque bouteille avec le QR code d'historique)</em>
 </div>
